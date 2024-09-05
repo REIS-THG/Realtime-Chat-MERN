@@ -5,7 +5,10 @@ This is a real-time chat website that allows users to connect with each other an
 - If you liked it then give this Repository a Star⭐
 
 ## Screenshots
-![Alt text](screenshots/Screenshot-1.png)
+![](screenshots/Screenshot-1.png)
+![](screenshots/Screenshot-2.png)
+![](screenshots/Screenshot-3.png)
+![](screenshots/Screenshot-4.png)
 
 ## Technologies Used
 
